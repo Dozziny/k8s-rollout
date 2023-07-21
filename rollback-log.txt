@@ -1,0 +1,3 @@
+10        kubectl.exe apply --filename=cozserver-deployment-v1.yaml --record=true
+12        kubectl.exe apply --filename=cozserver-deployment-v3.yaml --record=true
+13        kubectl.exe apply --filename=cozserver-deployment-v2.yaml --record=true
